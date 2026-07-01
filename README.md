@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Jun 30, 2026 at 21:19 UTC
+**Last Updated:** Jul 1, 2026 at 15:10 UTC
 
 ## Jobs in AI
 
@@ -17,15 +17,15 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)** | `10 open positions` | [Go to Repository](https://github.com/jobsinflutter/Flutter-Jobs) |
-| **[Remote Flutter Jobs](https://github.com/jobsinflutter/Remote-Flutter-Jobs)** | `0 open positions` | [Go to Repository](https://github.com/jobsinflutter/Remote-Flutter-Jobs) |
+| **[Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)** | `31 open positions` | [Go to Repository](https://github.com/jobsinflutter/Flutter-Jobs) |
+| **[Remote Flutter Jobs](https://github.com/jobsinflutter/Remote-Flutter-Jobs)** | `9 open positions` | [Go to Repository](https://github.com/jobsinflutter/Remote-Flutter-Jobs) |
 
 ## Jobs in Crypto
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
 | **[Crypto Jobs](https://github.com/jobsincrypto/Crypto-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsincrypto/Crypto-Jobs) |
-| **[Solidity Jobs](https://github.com/jobsincrypto/Solidity-Jobs)** | `13 open positions` | [Go to Repository](https://github.com/jobsincrypto/Solidity-Jobs) |
+| **[Solidity Jobs](https://github.com/jobsincrypto/Solidity-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsincrypto/Solidity-Jobs) |
 | **[DeFi Jobs](https://github.com/jobsincrypto/DeFi-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsincrypto/DeFi-Jobs) |
 
 ## Jobs in Quantum
@@ -54,7 +54,7 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[Rust Jobs](https://github.com/jobsinrust/Rust-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinrust/Rust-Jobs) |
 | **[Rust Systems Jobs](https://github.com/jobsinrust/Rust-Systems-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinrust/Rust-Systems-Jobs) |
-| **[Remote Rust Jobs](https://github.com/jobsinrust/Remote-Rust-Jobs)** | `43 open positions` | [Go to Repository](https://github.com/jobsinrust/Remote-Rust-Jobs) |
+| **[Remote Rust Jobs](https://github.com/jobsinrust/Remote-Rust-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinrust/Remote-Rust-Jobs) |
 
 ## Jobs in Games
 
