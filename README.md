@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Jul 2, 2026 at 14:27 UTC
+**Last Updated:** Jul 4, 2026 at 13:56 UTC
 
 ## Jobs in AI
 
@@ -19,14 +19,6 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)** | `31 open positions` | [Go to Repository](https://github.com/jobsinflutter/Flutter-Jobs) |
 | **[Remote Flutter Jobs](https://github.com/jobsinflutter/Remote-Flutter-Jobs)** | `9 open positions` | [Go to Repository](https://github.com/jobsinflutter/Remote-Flutter-Jobs) |
-
-## Jobs in Crypto
-
-| Job Collection Directory | Active Volume | GitHub Repository Link |
-| :--- | :---: | :--- |
-| **[Crypto Jobs](https://github.com/jobsincrypto/Crypto-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsincrypto/Crypto-Jobs) |
-| **[Solidity Jobs](https://github.com/jobsincrypto/Solidity-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsincrypto/Solidity-Jobs) |
-| **[DeFi Jobs](https://github.com/jobsincrypto/DeFi-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsincrypto/DeFi-Jobs) |
 
 ## Jobs in Quantum
 
