@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Jul 7, 2026 at 15:11 UTC
+**Last Updated:** Jul 8, 2026 at 14:40 UTC
 
 ## Jobs in AI
 
@@ -11,14 +11,14 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | **[AI Jobs](https://github.com/jobsinai/AI-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Jobs) |
 | **[AI Agent Jobs](https://github.com/jobsinai/AI-Agent-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Agent-Jobs) |
 | **[Machine Learning Jobs](https://github.com/jobsinai/Machine-Learning-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/Machine-Learning-Jobs) |
-| **[Remote AI Jobs](https://github.com/jobsinai/Remote-AI-Jobs)** | `16 open positions` | [Go to Repository](https://github.com/jobsinai/Remote-AI-Jobs) |
+| **[Remote AI Jobs](https://github.com/jobsinai/Remote-AI-Jobs)** | `24 open positions` | [Go to Repository](https://github.com/jobsinai/Remote-AI-Jobs) |
 
 ## Jobs in Flutter
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)** | `6 open positions` | [Go to Repository](https://github.com/jobsinflutter/Flutter-Jobs) |
-| **[Remote Flutter Jobs](https://github.com/jobsinflutter/Remote-Flutter-Jobs)** | `0 open positions` | [Go to Repository](https://github.com/jobsinflutter/Remote-Flutter-Jobs) |
+| **[Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)** | `31 open positions` | [Go to Repository](https://github.com/jobsinflutter/Flutter-Jobs) |
+| **[Remote Flutter Jobs](https://github.com/jobsinflutter/Remote-Flutter-Jobs)** | `9 open positions` | [Go to Repository](https://github.com/jobsinflutter/Remote-Flutter-Jobs) |
 
 ## Jobs in Quantum
 
