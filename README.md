@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Jul 21, 2026 at 14:18 UTC
+**Last Updated:** Jul 22, 2026 at 14:19 UTC
 
 ## Jobs in AI
 
@@ -31,8 +31,8 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[XR Jobs](https://github.com/jobsinxr/XR-Jobs)** | `14 open positions` | [Go to Repository](https://github.com/jobsinxr/XR-Jobs) |
-| **[Unity XR Jobs](https://github.com/jobsinxr/Unity-XR-Jobs)** | `14 open positions` | [Go to Repository](https://github.com/jobsinxr/Unity-XR-Jobs) |
+| **[XR Jobs](https://github.com/jobsinxr/XR-Jobs)** | `17 open positions` | [Go to Repository](https://github.com/jobsinxr/XR-Jobs) |
+| **[Unity XR Jobs](https://github.com/jobsinxr/Unity-XR-Jobs)** | `17 open positions` | [Go to Repository](https://github.com/jobsinxr/Unity-XR-Jobs) |
 
 ## Jobs in SexTech
 
@@ -54,8 +54,8 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[Game Development Jobs](https://github.com/jobsingames/Game-Development-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Game-Development-Jobs) |
 | **[Unity Game Jobs](https://github.com/jobsingames/Unity-Game-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Unity-Game-Jobs) |
-| **[Unreal Engine Jobs](https://github.com/jobsingames/Unreal-Engine-Jobs)** | `37 open positions` | [Go to Repository](https://github.com/jobsingames/Unreal-Engine-Jobs) |
-| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `44 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
+| **[Unreal Engine Jobs](https://github.com/jobsingames/Unreal-Engine-Jobs)** | `36 open positions` | [Go to Repository](https://github.com/jobsingames/Unreal-Engine-Jobs) |
+| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `42 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
 
 ---
 
