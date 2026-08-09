@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Aug 8, 2026 at 13:10 UTC
+**Last Updated:** Aug 9, 2026 at 13:13 UTC
 
 ## Jobs in AI
 
@@ -46,7 +46,7 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[Rust Jobs](https://github.com/jobsinrust/Rust-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinrust/Rust-Jobs) |
 | **[Rust Systems Jobs](https://github.com/jobsinrust/Rust-Systems-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinrust/Rust-Systems-Jobs) |
-| **[Remote Rust Jobs](https://github.com/jobsinrust/Remote-Rust-Jobs)** | `15 open positions` | [Go to Repository](https://github.com/jobsinrust/Remote-Rust-Jobs) |
+| **[Remote Rust Jobs](https://github.com/jobsinrust/Remote-Rust-Jobs)** | `21 open positions` | [Go to Repository](https://github.com/jobsinrust/Remote-Rust-Jobs) |
 
 ## Jobs in Games
 
