@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Aug 26, 2026 at 13:13 UTC
+**Last Updated:** Aug 27, 2026 at 22:13 UTC
 
 ## Jobs in AI
 
