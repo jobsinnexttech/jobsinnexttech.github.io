@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Sep 5, 2026 at 15:10 UTC
+**Last Updated:** Sep 6, 2026 at 15:25 UTC
 
 ## Jobs in AI
 
@@ -54,8 +54,8 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[Game Development Jobs](https://github.com/jobsingames/Game-Development-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Game-Development-Jobs) |
 | **[Unity Game Jobs](https://github.com/jobsingames/Unity-Game-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Unity-Game-Jobs) |
-| **[Unreal Engine Jobs](https://github.com/jobsingames/Unreal-Engine-Jobs)** | `44 open positions` | [Go to Repository](https://github.com/jobsingames/Unreal-Engine-Jobs) |
-| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `22 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
+| **[Unreal Engine Jobs](https://github.com/jobsingames/Unreal-Engine-Jobs)** | `39 open positions` | [Go to Repository](https://github.com/jobsingames/Unreal-Engine-Jobs) |
+| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `24 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
 
 ## Jobs in Product
 
