@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Sep 20, 2026 at 16:01 UTC
+**Last Updated:** Sep 21, 2026 at 18:12 UTC
 
 ## Jobs in AI
 
@@ -10,7 +10,7 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[AI Jobs](https://github.com/jobsinai/AI-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Jobs) |
 | **[AI Agent Jobs](https://github.com/jobsinai/AI-Agent-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Agent-Jobs) |
-| **[Machine Learning Jobs](https://github.com/jobsinai/Machine-Learning-Jobs)** | `49 open positions` | [Go to Repository](https://github.com/jobsinai/Machine-Learning-Jobs) |
+| **[Machine Learning Jobs](https://github.com/jobsinai/Machine-Learning-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/Machine-Learning-Jobs) |
 | **[Remote AI Jobs](https://github.com/jobsinai/Remote-AI-Jobs)** | `32 open positions` | [Go to Repository](https://github.com/jobsinai/Remote-AI-Jobs) |
 
 ## Jobs in Flutter
