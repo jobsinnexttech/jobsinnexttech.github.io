@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Oct 1, 2026 at 18:25 UTC
+**Last Updated:** Oct 2, 2026 at 17:51 UTC
 
 ## Jobs in AI
 
@@ -11,13 +11,13 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | **[AI Jobs](https://github.com/jobsinai/AI-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Jobs) |
 | **[AI Agent Jobs](https://github.com/jobsinai/AI-Agent-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Agent-Jobs) |
 | **[Machine Learning Jobs](https://github.com/jobsinai/Machine-Learning-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/Machine-Learning-Jobs) |
-| **[Remote AI Jobs](https://github.com/jobsinai/Remote-AI-Jobs)** | `33 open positions` | [Go to Repository](https://github.com/jobsinai/Remote-AI-Jobs) |
+| **[Remote AI Jobs](https://github.com/jobsinai/Remote-AI-Jobs)** | `34 open positions` | [Go to Repository](https://github.com/jobsinai/Remote-AI-Jobs) |
 
 ## Jobs in Flutter
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)** | `9 open positions` | [Go to Repository](https://github.com/jobsinflutter/Flutter-Jobs) |
+| **[Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)** | `12 open positions` | [Go to Repository](https://github.com/jobsinflutter/Flutter-Jobs) |
 | **[Remote Flutter Jobs](https://github.com/jobsinflutter/Remote-Flutter-Jobs)** | `5 open positions` | [Go to Repository](https://github.com/jobsinflutter/Remote-Flutter-Jobs) |
 
 ## Jobs in Quantum
@@ -55,15 +55,15 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | **[Game Development Jobs](https://github.com/jobsingames/Game-Development-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Game-Development-Jobs) |
 | **[Unity Game Jobs](https://github.com/jobsingames/Unity-Game-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Unity-Game-Jobs) |
 | **[Unreal Engine Jobs](https://github.com/jobsingames/Unreal-Engine-Jobs)** | `30 open positions` | [Go to Repository](https://github.com/jobsingames/Unreal-Engine-Jobs) |
-| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `14 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
+| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `13 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
 
 ## Jobs in Product
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
 | **[Product Manager Jobs](https://github.com/jobsinproduct/Product-Manager-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinproduct/Product-Manager-Jobs) |
-| **[Product Design Jobs](https://github.com/jobsinproduct/Product-Design-Jobs)** | `17 open positions` | [Go to Repository](https://github.com/jobsinproduct/Product-Design-Jobs) |
-| **[Remote Product Jobs](https://github.com/jobsinproduct/Remote-Product-Jobs)** | `37 open positions` | [Go to Repository](https://github.com/jobsinproduct/Remote-Product-Jobs) |
+| **[Product Design Jobs](https://github.com/jobsinproduct/Product-Design-Jobs)** | `16 open positions` | [Go to Repository](https://github.com/jobsinproduct/Product-Design-Jobs) |
+| **[Remote Product Jobs](https://github.com/jobsinproduct/Remote-Product-Jobs)** | `31 open positions` | [Go to Repository](https://github.com/jobsinproduct/Remote-Product-Jobs) |
 
 ---
 
