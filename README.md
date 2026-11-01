@@ -2,7 +2,7 @@
 
 Centralized index for the daily generated Jobs in Next Tech GitHub job-board repositories.
 
-**Last Updated:** Oct 31, 2026 at 17:14 UTC
+**Last Updated:** Nov 1, 2026 at 17:55 UTC
 
 ## Jobs in AI
 
@@ -10,7 +10,7 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[AI Jobs](https://github.com/jobsinai/AI-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Jobs) |
 | **[AI Agent Jobs](https://github.com/jobsinai/AI-Agent-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/AI-Agent-Jobs) |
-| **[Machine Learning Jobs](https://github.com/jobsinai/Machine-Learning-Jobs)** | `42 open positions` | [Go to Repository](https://github.com/jobsinai/Machine-Learning-Jobs) |
+| **[Machine Learning Jobs](https://github.com/jobsinai/Machine-Learning-Jobs)** | `43 open positions` | [Go to Repository](https://github.com/jobsinai/Machine-Learning-Jobs) |
 | **[Remote AI Jobs](https://github.com/jobsinai/Remote-AI-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinai/Remote-AI-Jobs) |
 
 ## Jobs in Flutter
@@ -46,7 +46,7 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[Rust Jobs](https://github.com/jobsinrust/Rust-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinrust/Rust-Jobs) |
 | **[Rust Systems Jobs](https://github.com/jobsinrust/Rust-Systems-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsinrust/Rust-Systems-Jobs) |
-| **[Remote Rust Jobs](https://github.com/jobsinrust/Remote-Rust-Jobs)** | `40 open positions` | [Go to Repository](https://github.com/jobsinrust/Remote-Rust-Jobs) |
+| **[Remote Rust Jobs](https://github.com/jobsinrust/Remote-Rust-Jobs)** | `46 open positions` | [Go to Repository](https://github.com/jobsinrust/Remote-Rust-Jobs) |
 
 ## Jobs in Games
 
@@ -54,8 +54,8 @@ Centralized index for the daily generated Jobs in Next Tech GitHub job-board rep
 | :--- | :---: | :--- |
 | **[Game Development Jobs](https://github.com/jobsingames/Game-Development-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Game-Development-Jobs) |
 | **[Unity Game Jobs](https://github.com/jobsingames/Unity-Game-Jobs)** | `More than 50 open positions` | [Go to Repository](https://github.com/jobsingames/Unity-Game-Jobs) |
-| **[Unreal Engine Jobs](https://github.com/jobsingames/Unreal-Engine-Jobs)** | `39 open positions` | [Go to Repository](https://github.com/jobsingames/Unreal-Engine-Jobs) |
-| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `25 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
+| **[Unreal Engine Jobs](https://github.com/jobsingames/Unreal-Engine-Jobs)** | `41 open positions` | [Go to Repository](https://github.com/jobsingames/Unreal-Engine-Jobs) |
+| **[Remote Game Development Jobs](https://github.com/jobsingames/Remote-Game-Development-Jobs)** | `20 open positions` | [Go to Repository](https://github.com/jobsingames/Remote-Game-Development-Jobs) |
 
 ## Jobs in Product
 
